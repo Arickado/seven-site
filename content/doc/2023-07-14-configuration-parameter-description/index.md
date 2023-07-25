@@ -1,5 +1,5 @@
 ---
-title: "Seven主题配置参数说明篇"
+title: "Bem Vindo"
 date: 2023-07-14T20:59:47+08:00
 draft: false
 author: ""
@@ -12,9 +12,9 @@ is_recommend: true
 description: "对 Hugo 主题 Seven 需要配置到的参数进行说明"
 ---
 
-对 **Seven** 主题用到的部分配置参数进行说明，希望能帮助到大家配置 `Seven主题`。
+Seja Bem Vindo
 
-**搜索**及**评论**相关参数会单独出篇文章进行说明。
+É um prazer ter você aqui
 
 ## Logo
 
