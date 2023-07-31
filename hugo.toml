@@ -141,7 +141,7 @@ home = ["HTML", "Algolia"]
 
 [menu]
   [[menu.main]]
-    name = "Doc"
+    name = "doc"
     pre = ""
     url = "/doc/"
     weight = 1
