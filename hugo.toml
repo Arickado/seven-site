@@ -1,6 +1,6 @@
 baseURL = 'https://seven-arickado.netlify.app'
 languageCode = 'en-us'
-title = 'Novo Demo Site'
+title = 'Massagem Terapia'
 
 hasCJKLanguage = true
 paginate = 18
