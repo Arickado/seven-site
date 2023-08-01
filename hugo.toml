@@ -18,7 +18,7 @@ home = ["HTML", "Algolia"]
     mediaType = 'application/json'
 
 [Params]
-  description = "Novo Site Demo"
+  description = "Relaxamento e terapia"
   
   enableToTop = false
   enableSearch = true
@@ -36,7 +36,7 @@ home = ["HTML", "Algolia"]
 
   description = "site novo feito com hugo"
   [Params.hero]
-    img = "/images/hero/hero.jpg"
+    img = "/images/hero/mountain.jpg"
 
   # App icon config
   [Params.app]

@@ -3,7 +3,7 @@ title: "Bem Vindo"
 date: 2023-07-14T20:59:47+08:00
 draft: false
 author: ""
-image: "/images/doc/params.webp"
+image: "/images/doc/geiser.jpg"
 categories: ["doc"]
 tags: ["doc"]
 URL: ""
